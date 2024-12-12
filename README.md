@@ -1,4 +1,4 @@
-[13/12, 1:55 am] .: #include <SoftwareSerial.h>
+#include <SoftwareSerial.h>
 
 SoftwareSerial sim800l(7, 8); // RX, TX pins (7 = RX, 8 = TX)
 
